@@ -20,7 +20,7 @@ int main() {
     
     
     
-      solve();
+    solve();
     
 
     return 0;
